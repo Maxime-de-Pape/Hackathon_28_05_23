@@ -1,0 +1,6 @@
+This code sets up a command-line interface for buying cryptocurrencies online.
+It connects to a Supabase database(https://app.supabase.com/project/zurfertwlcanxrxhxupr/editor/28602),
+retrieves cryptocurrency information, and allows users to place orders
+by providing the necessary details through the command line.
+
+
